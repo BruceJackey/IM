@@ -1,0 +1,13 @@
+mysql: 
+  host: 127.0.0.1
+  port: 3306
+  database: ginchat
+  username: root
+  password: jcx0325jcx..
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password: ""
+  DB: 0
+  pool_size: 30
+  min_idle_conns: 30
